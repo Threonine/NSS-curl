@@ -35,9 +35,9 @@ A simple Chrome extension for generating curl download commands for NSSCTF attac
 3. 刷新页面  
    Refresh the page
 4. 如果插件加载成功，「附件下载」按钮将变为「附件下载(curl)」  
-   If the extension loads successfully, the "Download Attachment" button will change to "Download Attachment (curl)"
+   If the extension loads successfully, the "附件下载" button will change to "附件下载(curl)"
 5. 点击「附件下载(curl)」按钮  
-   Click the "Download Attachment (curl)" button
+   Click the "附件下载(curl)" button
 6. 复制生成的 curl 命令  
    Copy the generated curl command
 7. 在终端中使用命令下载附件  
