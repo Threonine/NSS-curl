@@ -12,7 +12,7 @@ A simple Chrome extension for generating curl download commands for NSSCTF attac
    Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/你的用户名/nss-curl.git
+    git clone https://github.com/Threonine/nss-curl.git
     ```
 
 2. 在 Chrome 浏览器中：  
